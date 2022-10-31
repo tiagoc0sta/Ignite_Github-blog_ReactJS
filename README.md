@@ -3,6 +3,10 @@
 - Porject in progress
 
 - tecnpologies used: 
-- ReactJS / Typescript / react-router-dom / syled-components / font-awesome / axios (communicate with backend)
+- ReactJS 
+- Typescript / react-router-dom / syled-components / font-awesome / axios (communicate with backend)
 - zod
 - resolvers
+- useCallback
+- react-markdown
+- react-syntax-highLigter
